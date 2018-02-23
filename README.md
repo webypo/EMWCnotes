@@ -6,9 +6,15 @@ My notes and files pertaining to my Episcopal Mission of Warren County(EMWC) his
 - EMWC History blog
 - EMWC Section of my site
 ## Folders
-- IFC
+- experiment [README](EMWCnotes/experiment/README.md)
+  - coding and blogging experiments related to my EMWC research
+- IFC [README]
   - contains notes pertaining to my research into the ties between Trinity Memorial and the Interfaith Chapel at WSH
+- Projects [README]
 ## What's New
+- 2018-Feb-23
+  - Added a section called "experiment" for coding and blogging experiments related to my EMWC research
+  - Added a "Project" folder to clean up the root folder
 - 2018-Feb-20
   - Created IFC subfolder
   - created file in the IFC folder named oral-history-ifc.md
