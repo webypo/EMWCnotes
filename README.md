@@ -21,3 +21,4 @@ My notes and files pertaining to my Episcopal Mission of Warren County(EMWC) his
 - 2017-Nov-1
   - created file "2018-Jan-QQ-bs-n.md" and did some brainstorming
     of possible topics for the January 2018 Quarter Query.
+.
