@@ -8,9 +8,9 @@ My notes and files pertaining to my Episcopal Mission of Warren County(EMWC) his
 ## Folders
 - experiment [README](EMWCnotes/experiment/README.md)
   - coding and blogging experiments related to my EMWC research
-- IFC [README]
+- IFC [README](EMWCnotes/Projects/IFC/README.md)
   - contains notes pertaining to my research into the ties between Trinity Memorial and the Interfaith Chapel at WSH
-- Projects [README]
+- Projects [README](EMWCnotes/Projects/README.md)
 ## What's New
 - 2018-Feb-23
   - Added a section called "experiment" for coding and blogging experiments related to my EMWC research
