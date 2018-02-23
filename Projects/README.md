@@ -5,7 +5,7 @@ Will include files and folders for notes and other information on various topics
 ## Quarter Query
 Notes and drafts of historical essays to be included in a binder at Trinity and elsewhere online
 ### *2018*
-- [2018-Jan-QQ](Projects/2018/2018-Jan-QQ/README.md)
+- [2018-Jan-QQ](Projects/2018/README.md)
     - Topic is the Interfaith Chapel (See [IFC](EMWCnotes/Projects/IFC/README.md))
 
 ### *2017*
