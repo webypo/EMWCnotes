@@ -5,11 +5,11 @@ Will include files and folders for notes and other information on various topics
 ## Quarter Query
 Notes and drafts of historical essays to be included in a binder at Trinity and elsewhere online
 ### *2018*
-- [2018-Jan-QQ](Projects/2018/README.md)
-    - Topic is the Interfaith Chapel (See [IFC](EMWCnotes/Projects/IFC/README.md))
+- [2018-Jan-QQ](/2018/README.md)
+    - Topic is the Interfaith Chapel (See [IFC](/IFC/README.md))
 
 ### *2017*
-- [2017-Aug-QQ](/Projects/2017/2017-Aug-QQ/)
+- [2017-Aug-QQ](/2017/2017-Aug-QQ/)
 
 ## Regarding Sources
 Citation within each individual file/document as I go and will include information pertaining to either the online or physical location of the source.
