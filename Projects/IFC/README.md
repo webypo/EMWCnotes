@@ -2,7 +2,7 @@
 
 ## Introduction
 The contents of this section may containe the following...
-- [ ] Notes
+- [x] My notes
 - [ ] Sources
 - [ ] Location of sources
 - [ ] Rough Drafts
