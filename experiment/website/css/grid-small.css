@@ -1,0 +1,364 @@
+@charset "UTF-8";
+
+/* BODY */
+html, body {
+    font-size: 20px;
+    line-height: 1.5rem;
+    font-family: "Courier", "Arial", "sans-serif";
+}
+
+/* HEADINGS */
+h1,h2,h3,h4,h5,h6 {
+     text-align: center;
+     vertical-align: middle;
+     font-weight: bold;
+     word-wrap: normal;
+}
+
+h1 {
+     font-size: 2.0rem;
+}
+
+h2 {
+     font-size: 1.8rem;
+}
+
+h3 {
+     font-size: 1.6rem;
+}
+
+h4 {
+     font-size: 1.4rem;
+}
+
+h5 {
+     font-size: 1.2rem;
+}
+
+h6 {
+     font-size: 1.0rem;
+}
+
+/* PARAGRAPH */
+p {
+     font-size: .8rem;
+     text-indent: 1.5rem;
+     word-wrap: break-word;
+}
+
+/* Links */
+a {
+     text-decoration: none;
+     margin: auto .3rem auto .3rem;
+}
+a:visited {
+     text-decoration:none;
+     margin: inherit;
+}
+a:focus {
+     color: yellow;
+     background-color: black;
+     padding: .2em;
+     text-decoration: overline underline;
+     font-style:italic;
+     margin: inherit;
+}
+a:hover {
+     color: black;
+     background-color: yellow;
+     padding: .2em;
+     text-decoration: underline overline;
+     font-style:italic;
+     margin: inherit;
+}
+a:active {
+     color: black;
+     background-color: yellow;
+     padding: .2em;
+     text-decoration: underline overline;
+     font-style: italic;
+     margin: inherit;
+}
+
+nav>a {
+     margin-left: .5rem;
+     margin-right: .5rem;
+}
+
+/* Wrapper */
+.wrapper{
+     width: 92%;
+     margin: 0% 4% 0% 4%;
+     background-color: white;
+     padding: 1.5rem 1rem 1.5rem 1rem;
+}
+
+     /* Alignment */
+     .centered {
+          text-align: center;
+     }
+
+     /* Backgrounds */
+     .bg1{
+          background-color: white;
+     }
+
+/* GRID LAYOUT */
+.grid {
+     display: grid;
+     grid-template-columns: 12, 1fr;
+     grid-gap: .3rem;
+     grid-template-areas:
+          "skip"
+          "header"
+          "main"
+          "footer";
+}
+
+/* Skip Link */
+.skip {
+     grid-area: "skip";
+     padding: inherit;
+}
+
+/* PAGE HEADING - grid layout*/
+.header {
+     grid-area: "header";
+     width: 100%;
+     display: grid;
+     grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+     grid-gap: inherit;
+     grid-template-areas:
+          "skip"
+          "name"
+          "crumb";
+     }
+
+     /* Page Name */
+     .name {
+          grid-area: "name";
+          text-align: center;
+     }
+
+     /* Page Breadcrumb */
+     .crumb {
+          grid-area: "crumb";
+          text-align: center;
+     }
+/* End - Page Heading - grid layout */
+
+/* MAIN CONTENT - grid layout */
+.main {
+     grid-area: "main";
+     display: grid;
+     grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+     grid-gap: inherit;
+     grid-template-areas:
+          "con"
+          "fig1"
+          "skip"
+          "intro"
+          "skip"
+          "fig2"
+          "skip"
+          "top2"
+          "skip"
+          "top1"
+          "skip"
+          "top2"
+          "skip"
+          "top1"
+          "skip"
+          "top2"
+          "skip"
+          "top1"
+          "skip"
+}
+
+     /* Table of Contents (Left) */
+     .con {
+          grid-area: "con";
+     }
+     /* End Table of Contents - grid layout */
+
+     /* Introduction - grid layout*/
+     .intro {
+          grid-area: "intro";
+          grid-column-start: 1;
+          grid-column-end: 13;
+          display: grid;
+          grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+          grid-gap: inherit;
+          grid-template-areas:
+               "intro-head"
+               "intro1"
+               "intro2"
+               "intro3"
+     }
+
+          .intro-head {
+               grid-area: "intro-head";
+               grid-column-start: 1;
+               grid-column-end: 13;
+          }
+
+          /* Intro 1 (Left) */
+          .intro1 {
+               grid-area: "intro1";
+               grid-column-start: 1;
+               grid-column-end: 13;
+          }
+
+          /* Intro 2 (Right) */
+          .intro2 {
+               grid-area: "intro2";
+               grid-column-start: 1;
+               grid-column-end: 13;
+          }
+
+          /* Intro 3 (Full) */
+          .intro3 {
+               grid-area: "intro3";
+               grid-column-start: 1;
+               grid-column-end: 13;
+          }
+     /* End - Introduction - grid layout */
+
+/* TOPICS with IMAGES */
+     /* Left - fig2 */
+     .fig2 {
+          grid-area: "fig2";
+          grid-column-start: 1;
+          grid-column-end: 13;
+     }
+     /* Left - Top 2 */
+     .top2 {
+          grid-area: "top2";
+          grid-column-start: 1;
+          grid-column-end: 13;
+     }
+
+     /* Right - Top 1 */
+     .top1 {
+          grid-area: "top1";
+          grid-column-start: 1;
+          grid-column-end: 13;
+     }
+     /* Right - Fig 1 */
+     .fig1 {
+          grid-area: "fig1";
+          grid-column-start: 1;
+          grid-column-end: 13;
+     }
+     /* End Topics with Images - grid layout */
+/* End Main Content Grid Layout */
+
+/* FOOTER Grid Layout */
+.footer {
+     grid-area: "footer";
+     grid-column-start: 1;
+     grid-column-end: 13;
+     display: grid;
+     grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+     grid-gap: inherit;
+     grid-template-areas:
+          "f1"
+          "f2"
+          "f3";
+}
+
+     /* Foot 1 (Left) */
+     .f1 {
+          grid-area: "f1";
+          grid-column-start: 1;
+          grid-column-end: 13;
+     }
+
+     /* Foot 2 (Right) */
+     .f2 {
+          grid-area: "f2";
+          grid-column-start: 1;
+          grid-column-end: 13;
+     }
+
+     /* Foot 3 (full) */
+     .f3 {
+          grid-area: "f3";
+          grid-column-start: 1;
+          grid-column-end: 13;
+          display:grid;
+          grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+          grid-template-areas:
+               "f3a"
+               "f3b"
+               "f3c";
+     }
+          /* f3a (Left) */
+          .f3a {
+               grid-area: "f3a";
+               grid-column-start: 1;
+               grid-column-end: 13;
+          }
+
+          /* f3b (Right)*/
+          .f3b {
+               grid-area: "f3b";
+               grid-column-start: 1;
+               grid-column-end: 13;
+          }
+
+          /* f3c - full */
+          .f3c {
+               grid-area: "f3c";
+               grid-column-start: 1;
+               grid-column-end: 13;
+               display: grid;
+               grid-template-columns: repeat(12, 1fr auto minmax(30%, 1fr));
+               grid-template-areas:
+                    "fcon"
+                    "skip";
+          }
+               .fcon {
+                    grid-area: "fcon";
+                    grid-column-start: 1;
+                    grid-column-end: 13;
+               }
+/* End Grid Layout */
+
+/* i tags used with Font Awesome */
+i {
+     margin-left: .3rem;
+     margin-right: .3rem;
+}
+
+
+/* Figure - Image - Figcaption */
+figure {
+
+}
+     .img {
+
+     }
+          /* Small Image Size */
+          .img-small {
+               width: 25%;
+               height: auto;
+          }
+          /* Medium Image Size */
+          .img-med {
+               width: 45%;
+               height: auto;
+          }
+          /* Large Image Size */
+          .img-large {
+               width: 85%;
+               height: auto;
+          }
+
+     figcaption {
+          padding: inherit;
+          font-style: italic;
+          font-size: .6rem;
+     }
+/* End - Figure - Image - Figcaption */
+}
