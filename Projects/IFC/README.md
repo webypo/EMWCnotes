@@ -1,5 +1,13 @@
 # Interfaith Chapel Notes and Information
 
+[ [Home](../../README.md) | [Projects](../Projects/README.md) | [IFC](/uri "Interfaith Chapel")
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Folders](#folders)
+- []()
+- []()
+
 ## Introduction
 The contents of this section may containe the following...
 - [x] My notes
@@ -8,4 +16,7 @@ The contents of this section may containe the following...
 - [ ] Rough Drafts
 - [ ] Brainstorms
 
-TODO: Create folders to place files and documents into.
+## Folders
+- Notes
+- Groups or Individuals
+- 
