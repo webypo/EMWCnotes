@@ -1,6 +1,6 @@
 # Related Projects
 ___
-[ [Home](https://github.com/webypo/EMWCnotes/README.md) | Related Projects ]
+[ [Home](../README.md) | Related Projects ]
 ___
 
 ## Table of Contents
@@ -61,4 +61,4 @@ ___
 [ [Top](#table-of-contents) ]
 
 ___
-[ [Home](https://github.com/webypo/EMWCnotes/README.md) | Related Projects ]
+[ [Home](../README.md) | Related Projects ]
