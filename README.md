@@ -5,7 +5,7 @@
 
 - [Introduction](#introduction)
 - [Related Projects](#related-projects)
-- [What's New](#what's-new)
+- [What's New](#whats-new)
 - [Folders](#folders)
 
 ___
