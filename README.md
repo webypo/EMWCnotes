@@ -4,8 +4,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Related Projects](#Related_Projects)
-- [What's New](#What's_New)
+- [Related Projects](#Related-Projects)
+- [What's New](#What's-New)
 - [Folders](#Folders)
 
 ___
@@ -14,7 +14,7 @@ ___
 My notes and files pertaining to my Episcopal Mission of Warren County(EMWC) historical Research in prep for creating content for use in other projects including but not limited to my blogs, website and offline research related tasks.
 
 ___
-[Top](#Table_of_Contents)
+[Top](#Table-of-Contents)
 ___
 ## Related Projects
 
@@ -24,7 +24,7 @@ ___
 * EMWC Section of my site
 
 ___
-[Top](#Table_of_Contents)
+[Top](#Table-of-Contents)
 ___
 ## Folders
 
@@ -35,7 +35,7 @@ ___
 - Projects [README](/Projects/README.md)
 
 ___
-[Top](#Table_of_Contents)
+[Top](#Table-of-Contents)
 ___
 ## What's New
 
@@ -52,7 +52,7 @@ ___
     of possible topics for the January 2018 Quarter Query.
 
 ___
-[Top](#Table_of_Contents)
+[Top](#Table-of-Contents)
 ___
 
 [ Home ]
