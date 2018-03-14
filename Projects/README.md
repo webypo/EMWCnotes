@@ -1,6 +1,6 @@
 # Related Projects
 ___
-[ [Home](EMWCnotes/README.md) | Related Projects ]
+[ [Home](https://github.com/webypo/EMWCnotes/README.md) | Related Projects ]
 ___
 
 ## Table of Contents
@@ -11,19 +11,25 @@ ___
     - [2017](#2017)
 - [Regarding Sources](#regarding-sources)
 
+___
 ## Introduction
+
 This section will contain projects that are either in progress or completed.
 
 ___
 [[Top](#table-of-contents)]
 ___
+
 ## EMWC
+
 Will include files and folders for notes and other information on various topics I might be researching but may not have a specific use in mind for the information at the time of adding it here
 
 ___
 [[Top](#table-of-contents)]
 ___
+
 ## Quarter Query
+
 Notes and drafts of historical essays to be included in a binder at Trinity and elsewhere online
 
 ___
@@ -55,4 +61,4 @@ ___
 [ [Top](#table-of-contents) ]
 
 ___
-[ [Home](EMWCnotes/README.md) | Related Projects ]
+[ [Home](https://github.com/webypo/EMWCnotes/README.md) | Related Projects ]
