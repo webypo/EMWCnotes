@@ -1,14 +1,22 @@
-# EMWCnotes - Episcopal Mission of Warren County Notes
+# EMWCnotes | Episcopal Mission of Warren County Notes
+[ Home ]
 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Related Projects](#Related_Projects)
+- [What's New](#What's_New)
+- [Folders](#Folders)
 
+___
 ## Introduction
+
 My notes and files pertaining to my Episcopal Mission of Warren County(EMWC) historical Research in prep for creating content for use in other projects including but not limited to my blogs, website and offline research related tasks.
 
 ___
-## Projects related to this respository
+[Top](#Table_of_Contents)
+___
+## Related Projects
 
 * Quarter Query write-ups
 * EMWC History blog
@@ -16,14 +24,7 @@ ___
 * EMWC Section of my site
 
 ___
-## What's New
-
-- **2018-Mar-13**
-   - Began working to build a clickable table of contents and breadcrumb trails for every README.md file within this repository
-
-- **2017-Nov-1**
-     created file "2018-Jan-QQ-bs-n.md" and did some brainstorming of possible topics for the January 2018 Quarter Query.
-
+[Top](#Table_of_Contents)
 ___
 ## Folders
 
@@ -34,8 +35,12 @@ ___
 - Projects [README](/Projects/README.md)
 
 ___
+[Top](#Table_of_Contents)
+___
 ## What's New
 
+- 2018-Mar-13
+   - Began work to add a table of contents and breadcrumb trail to each README page
 - 2018-Feb-23
   - Added a section called "experiment" for coding and blogging experiments related to my EMWC research
   - Added a "Project" folder to clean up the root folder
@@ -45,3 +50,9 @@ ___
 - 2017-Nov-1
   - created file "2018-Jan-QQ-bs-n.md" and did some brainstorming
     of possible topics for the January 2018 Quarter Query.
+
+___
+[Top](#Table_of_Contents)
+___
+
+[ Home ]
