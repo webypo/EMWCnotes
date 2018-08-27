@@ -6,7 +6,7 @@
 - [Introduction](#introduction)
 - [Who Was Involved](#who-was-involved)
   - [Faith-based Groups](#faith-based-groups)
-    - [Protestent](#protestent)
+    - [Protestent Churches](#protestent-churches)
     - [Jewish Synegogue](#jewish-synegogue)
     - [Roman Catholic](#roman-catholic)
   - [Non-Faith-based Groups](#non-faith-based-groups)
@@ -16,7 +16,7 @@
 - [Construction](#construction)
   - [The Architect](#the-architect)
   - [Location](#location)
-- [Misc. Notes](#misc.-notes)
+- [Misc Notes](#misc-notes)
 - [Sources](#sources)
 
 ## Introduction
@@ -57,7 +57,7 @@ My primary interest is in the role that Trinity Memorial Church (Warren, PA) in 
 ### Location
 
 
-## Misc. Notes
+## Misc Notes
 
 
 ## Sources
