@@ -1,8 +1,8 @@
 # EMWCnotes | Episcopal Mission of Warren County Notes
+
 [ Home ]
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Related Projects](#related-projects)
 - [What's New](#whats-new)
@@ -10,35 +10,31 @@
 
 ___
 ## Introduction
-
 My notes and files pertaining to my Episcopal Mission of Warren County(EMWC) historical Research in prep for creating content for use in other projects including but not limited to my blogs, website and offline research related tasks.
 
 ___
 [Top](#table-of-contents)
 ___
+
 ## Related Projects
-
 * Quarter Query write-ups
-* EMWC History blog
-    *  http://emwchistory.wordpress.com
-* EMWC Section of my site
-
+   * EMWC History blog [http://emwchistory.wordpress.com](http://emwchistory.wordpress.com)
 ___
 [Top](#table-of-contents)
 ___
-## Folders
 
+## Folders
 - experiment [README](/experiment/README.md)
-  - coding and blogging experiments related to my EMWC research
+   - coding and blogging experiments related to my EMWC research
 - IFC [README](/Projects/IFC/README.md)
-  - contains notes pertaining to my research into the ties between Trinity Memorial and the Interfaith Chapel at WSH
+   - contains notes pertaining to my research into the ties between Trinity Memorial and the Interfaith Chapel at WSH
 - Projects [README](/Projects/README.md)
 
 ___
 [Top](#table-of-contents)
 ___
-## What's New
 
+## What's New
 - 2018-Mar-13
    - Began work to add a table of contents and breadcrumb trail to each README page
 - 2018-Feb-23
