@@ -1,0 +1,204 @@
+@charset "UTF-8";
+
+/* GRID LAYOUT */
+.grid {
+    display: grid;
+    grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+    grid-gap: .4rem;
+    grid-template-areas:
+    "header    header"
+    "main      main"
+    "footer    footer";
+}
+
+/* Skip Link */
+.skip {
+    grid-area: "skip";
+    padding: inherit;
+    grid-column: 1/13;
+}
+
+/* PAGE HEADING - grid layout*/
+.header {
+    grid-area: "header";
+    grid-column: 1/13;
+    display: grid;
+    grid-gap: inherit;
+    grid-template-areas:
+    "skip      skip"
+    "name     crumb";
+}
+    /* Page Name */
+    .name {
+        grid-area: "name";
+        text-align: center;
+        vertical-align: inherit;
+        grid-column: 1/7;
+    }
+
+    /* Page Breadcrumb */
+    .crumb {
+        grid-area: "crumb";
+        text-align: center;
+        grid-column: 7/13;
+    }
+/* End - Page Heading - grid layout */
+
+/* MAIN CONTENT - grid layout */
+.main {
+    grid-area: "main";
+    grid-column: 1/13;
+    display: grid;
+    grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+    grid-gap: inherit;
+    grid-template-areas:
+    "con      fig1"
+    "skip     skip"
+    "intro    intro"
+    "skip     skip"
+    "fig2     top1"
+    "skip     skip"
+    "top2     fig1"
+    "skip     skip"
+    "fig2     top1"
+    "skip     skip"
+    "top2     fig1"
+    "skip     skip"
+    "fig2     top1"
+    "skip     skip"
+    "top2     fig1"
+    "skip     skip"
+    "fig2     top1"
+    "skip     skip";
+}
+
+/* Table of Contents (Left) */
+    .con {
+        grid-area: "con";
+        grid-column: 1/6;
+    }
+    /* End Table of Contents - grid layout */
+
+    /* Introduction - grid layout*/
+    .intro {
+        grid-area: "intro";
+        grid-column: 1/13;
+        display: grid;
+        grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+        grid-gap: .3rem;
+        grid-template-areas:
+        "intro-head      intro-head"
+        "intro1             intro2"
+        "intro3             intro3";
+    }
+        .intro-head {
+            grid-area: "intro-head";
+            grid-column: 1/13;
+        }
+            /* Intro 1 (Left) */
+            .intro1 {
+                grid-area: "intro1";
+                grid-column: 1/6;
+            }
+            /* Intro 2 (Right) */
+            .intro2 {
+                grid-area: "intro2";
+                grid-column: 6/13;
+            }
+            /* Intro 3 (Full) */
+            .intro3 {
+                grid-area: "intro3";
+                grid-column-start: 1/13;
+            }
+    /* End - Introduction - grid layout */
+
+    /* TOPICS with IMAGES */
+        /* Left - Top 2 */
+        .top2 {
+            grid-area: "top2";
+            grid-column: 1/7;
+        }
+        /* Left - Fig 2 */
+        .fig2 {
+            grid-area: "fig2";
+            grid-column: 1/5;
+        }
+
+        /* Right - Top 1 */
+        .top1 {
+            grid-area: "top1";
+            grid-column: 5/13;
+        }
+        /* Right - Fig 1 */
+        .fig1 {
+            grid-area: "fig1";
+            grid-column: 7/13;
+        }
+        /* End Topics with Images - grid layout */
+    /* End Main Content Grid Layout */
+
+    /* FOOTER Grid Layout */
+    .footer {
+        grid-area: "footer";
+        grid-column: 1/13;
+        display: grid;
+        grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+        grid-gap: inherit;
+        grid-template-areas:
+        "f1      f2"
+        "f3      f3";
+    }
+        /* Foot 1 (Left) */
+        .f1 {
+            grid-area: "f1";
+            grid-column: 1/6;
+        }
+            .f1>header {
+                text-align: left;
+            }
+        /* Foot 2 (Right) */
+        .f2 {
+        grid-area: "f2";
+        grid-column: 6/13;
+        }
+            .f2>header {
+                text-align: left;
+            }
+        /* Foot 3 (full) */
+        .f3 {
+            grid-area: "f3";
+            grid-column: 1/13;
+            display:grid;
+            grid-template-columns: repeat (12, 1fr auto minmax(30%, 1fr));
+            grid-template-areas:
+            "f3a      f3b"
+            "f3c      f3c";
+        }
+            /* f3a (Left) */
+            .f3a {
+                grid-area: "f3a";
+                grid-column: 1/6;
+            }
+
+            /* f3b (Right)*/
+            .f3b {
+                grid-area: "f3b";
+                grid-column: 6/13;
+            }
+
+            /* f3c - full */
+            .f3c {
+                clear: both;
+                grid-area: "f3c";
+                grid-column: 1/13;
+                display: grid;
+                grid-template-columns: repeat(12, 1fr auto minmax(30%, 1fr));
+                grid-template-areas:
+                "fcon           fcon"
+                "skip           skip"
+            }
+                .fcon {
+                    grid-area: "fcon";
+                    grid-column: 1/13;
+                }
+        /* End Grid Layout */

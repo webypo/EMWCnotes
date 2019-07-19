@@ -1,54 +1,25 @@
-# EMWCnotes | Episcopal Mission of Warren County Notes
+# Experiments Related To EMWC Research
 
-[ Home ]
+## Contents
+- Introduction
+    - Filetypes
+- Side Notes
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Related Projects](#related-projects)
-- [What's New](#whats-new)
-- [Folders](#folders)
-
-___
 ## Introduction
-My notes and files pertaining to my Episcopal Mission of Warren County(EMWC) historical Research in prep for creating content for use in other projects including but not limited to my blogs, website and offline research related tasks.
+This section is where I will be adding files that I'm using to experiment with layouts for webpages or blog posts to be used elsewhere.
 
-___
-[Top](#table-of-contents)
-___
+### Filetypes
+File types included in this section could include:
+- [ ] HTML
+- [ ] CSS
+- [ ] .txt
+- [ ] .doc
+- [ ] .md
+- [ ] JavaScript _Big Maybe_
 
-## Related Projects
-* Quarter Query write-ups
-   * EMWC History blog [http://emwchistory.wordpress.com](http://emwchistory.wordpress.com)
-___
-[Top](#table-of-contents)
-___
+_(A checked box indicates the filetype exists in this section and is not a README file)_
 
-## Folders
-- experiment [README](/experiment/README.md)
-   - coding and blogging experiments related to my EMWC research
-- IFC [README](/Projects/IFC/README.md)
-   - contains notes pertaining to my research into the ties between Trinity Memorial and the Interfaith Chapel at WSH
-- Projects [README](/Projects/README.md)
-
-___
-[Top](#table-of-contents)
-___
-
-## What's New
-- 2018-Mar-13
-   - Began work to add a table of contents and breadcrumb trail to each README page
-- 2018-Feb-23
-  - Added a section called "experiment" for coding and blogging experiments related to my EMWC research
-  - Added a "Project" folder to clean up the root folder
-- 2018-Feb-20
-  - Created IFC subfolder
-  - created file in the IFC folder named oral-history-ifc.md
-- 2017-Nov-1
-  - created file "2018-Jan-QQ-bs-n.md" and did some brainstorming
-    of possible topics for the January 2018 Quarter Query.
-
-___
-[Top](#table-of-contents)
-___
-
-[ Home ]
+## Side Notes
+- The files in this section may be full or partial files, or simply a hodge podge of code snippets I'm playing with
+- Regarding the inclusion of JavaScript
+    - _I've started using "Head First JavaScript Programing" [Available on Amazon.com](http://amzn.to/2CDsG9r) to help develope a foundation in vanilla JS, I would prefer to learn more before I attempt to use it in any of my projects, but overtime I hope to find ways to incorporate JS into my projects._

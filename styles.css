@@ -1,0 +1,157 @@
+@charset "UTF-8";
+
+/* Global Settings */
+html, body {
+    font-size: 20px;
+    line-height: 1.5rem;
+    font-family: "Courier", "Arial", "sans-serif";
+}
+
+/* Headings */
+h1,h2,h3,h4,h5,h6 {
+    color: steeleblue;
+    text-align: center;
+    font-weight: bold;
+    word-wrap: normal;
+}
+    h1 {
+        font-size: 2.0rem;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    h3 {
+        font-size: 1.6rem;
+    }
+
+    h4 {
+        font-size: 1.4rem;
+    }
+
+    h5 {
+        font-size: 1.2rem;
+    }
+
+    h6 {
+        font-size: 1.0rem;
+        text-align: left;
+    }
+
+/* Paragraphs */
+p {
+    font-size: 1rem;
+    text-indent: 1rem;
+}
+
+/* i tags used with Font Awesome */
+i {
+    margin-left: .3rem;
+    margin-right: .3rem;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    margin: auto .3rem auto .3rem;
+}
+    a:visited {
+        text-decoration:none;
+        margin: inherit;
+    }
+    a:focus {
+        color: yellow;
+        background-color: black;
+        padding: .2em;
+        text-decoration: overline underline;
+        font-style:italic;
+        margin: inherit;
+    }
+    a:hover {
+        color: black;
+        background-color: yellow;
+        padding: .2em;
+        text-decoration: underline overline;
+        font-style:italic;
+        margin: inherit;
+    }
+    a:active {
+        color: black;
+        background-color: yellow;
+        padding: .2em;
+        text-decoration:underline overline;
+        font-style:italic;
+        margin: inherit;
+    }
+
+    nav>a {
+        margin-left: .5rem;
+        margin-right: .5rem;
+    }
+
+
+/* Alignment */
+.centered {
+    text-align: center;
+}
+
+/* Backgrounds */
+.bg1{
+  background-color: white;
+}
+
+/* Wrapper */
+.wrapper{
+    width: 80%;
+    margin: 0% 10% 0% 10%;
+    background-color: white;
+    padding: 1.5rem 1rem 1.5rem 1rem;
+}
+
+main {
+   padding: 1rem;
+   margin-bottom: .3rem;
+}
+    main, section {
+       margin-bottom: .3rem;
+    }
+
+
+/* Figure - Image - Figcaption */
+figure {
+    padding: inherit;
+}
+    /* small pic */
+    .img-small {
+        width: 30%;
+        height: auto;
+    }
+
+    /* medium pic */
+    .img-med {
+        width: 60%;
+        height: auto;
+    }
+
+    /* large pic */
+    .img-large {
+        width: 80%;
+        height: auto;
+    }
+
+figcaption {
+    max-width: 80%;
+    display: block;
+    margin: auto;
+    padding: inherit;
+    font-style: italic;
+    font-size: .6rem;
+}
+/* End - Figure - Image - Figcaption */
+
+
+
+footer {
+   padding: 1rem;
+}
