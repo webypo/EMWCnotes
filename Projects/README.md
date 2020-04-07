@@ -3,34 +3,41 @@
 [ [Home](../README.md) | Related Projects ]
 ___
 
-## Table of Contents
+# Table of Contents
 - [Introduction](#introduction)
 - [EMWC](#emwc)
 - [Quarter Query](#quarter-query)
+    - [2020](#2020)
     - [2018](#2018)
     - [2017](#2017)
 - [Webpage Experiments](#webpage-experiments]
 - [Regarding Sources](#regarding-sources)
 
 ___
-## Introduction
+# Introduction
 
 This section will contain projects that are either in progress or completed.
 
-## Quarter Query
+# Quarter Query
 
 Notes and drafts of historical essays to be included in a binder at Trinity and elsewhere online
 
-    **A Note Regarding Sources**
-    Citation within each individual file/document
-    including information pertaining to either the
-    online or physical location of the source.
+  **Note Regarding Sources**
 
-### *2018*
+  Citation within each individual file/document including information pertaining to either the online or physical location of the source.
+
+## *2020*
+
+**Covid-19** [*(README.md)*](/Projects/2020/covid-19/README.md)
+  - Intro [*(README.md#intro)*](/Projects/2020/covid-19/README.md#intro)
+
+
+## *2018*
+
 - [2018-Jan-QQ](/Projects/2018/)
     - Topic is the Interfaith Chapel See [IFC](/Projects/IFC/
 
-### *2017*
+## *2017*
 
 - [2017-Aug-QQ](2017/2017-Aug-QQ/)
 
