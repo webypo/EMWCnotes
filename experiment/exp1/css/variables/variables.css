@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+:root {
+    background-color: white;
+    font-family: "Arial", "serif", "monospace";
+    font-size: 30px;
+    color: black;
+}
+
+/* CSS Variables */
+.bod {
+    --bod: black;
+}
+
+.wra {
+    --wra: grey;
+}
+
+.pgh {
+    --pgh:lightgrey;
+}
+
+    .pgh-sec {
+        --pgh-sec: white;
+        --pgh-sec-h: lightgrey;
+        --pgh-sec-f: lightgrey;
+    }
+
+.ma {
+    --ma: lightgrey;
+}
+
+    .pc {
+        --pc: linen;
+        --pc-sec-h: tan;
+        --pc-sec-f: tan;
+    }
+
+    .sec {
+        --sec: white;
+        --sec-h: lightgrey;
+        --sec-f: lightgrey
+    }
+
+    .art {
+        --art: white;
+        --art-h: lightgrey;
+        --art-f: lightgrey;
+    }
+
+    .fig {
+        --fig:white;
+        --fig-h: lightgrey;
+        --fig-f: lightgrey;
+    }
+
+
+.ft {
+    --ft: lightgrey;
+}
+
+    .ft-sec {
+        --ft-sec: white;
+        --ft-sec-h: lightgrey;
+        --ft-sec-f: lightgrey;
+    }
