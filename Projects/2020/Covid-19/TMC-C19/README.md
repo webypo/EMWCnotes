@@ -22,20 +22,17 @@ The Covid-19 pandemic caused drastic changes worldwide, but as I said, my focus 
 
 ## Timeline
 
-### Day 1: The beginning
-[March 11, 2020](Projects\2020\Covid-19\TMC-C19\Timeline\03-11-2020\README.md)
+**Day 1:** *The beginning*
+- [March 11, 2020](Projects\2020\Covid-19\TMC-C19\Timeline\03-11-2020\README.md)
 
-### Day 2: Sudden Changes Begin
-[March 12, 2020](Projects\2020\Covid-19\TMC-C19\Timeline\03-12-2020\README.md)
+**Day 2:** *Sudden Changes Begin*
+- [March 12, 2020](Projects\2020\Covid-19\TMC-C19\Timeline\03-12-2020\README.md)
 
-### Day 3:
-**March 13, 2020**
+**Day 3:** *March 13, 2020*
 
-### Day 4:
-**March 14, 2020**
+**Day 4:** *March 14, 2020*
 
-### Day 5:
-**March 15, 2020**
+**Day 5:** *March 15, 2020*
 
 ## Sources
 
