@@ -24,7 +24,7 @@ I will not claim that what I produce will be complete coverage since odds are re
 ***Note:*** *I will link to subsections as I create them*
 
 - EMWC
-  - [Trinity Memorial Church](/TMC-C19/README.md) (Warren, PA) and Covid-19
+  - [Trinity Memorial Church](TMC-C19/README.md) (Warren, PA) and Covid-19
   - St. Francis of Assisi in Youngsville, PA
 - Warren County PA
 
