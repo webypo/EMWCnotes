@@ -1,6 +1,6 @@
 # Covid-19
 
-[ [Home](..\..\..\emwcnotes\README.md) | [Projects](..\..\projects\README.md) | [2020](..\2020\README.md) | Covid-19 ]
+[ [Home](EMWCnotes\README.md) | [Projects](..\..\projects\README.md) | [2020](..\2020\README.md) | Covid-19 ]
 
 ## Contents
 
