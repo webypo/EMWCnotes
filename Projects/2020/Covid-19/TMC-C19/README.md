@@ -1,6 +1,6 @@
 # Trinity Memorial Church and Covid-19
 
-[ [Home](..\..\..\..\..\emwcnotes\README.md) | [Projects](..\..\..\..\projects\README.md) | [2020](..\..\..\2020\README.md) | [Covid-19](..\..\README.md) | TMC-C19 ]
+[ [Home](..\..\..\..\..\emwcnotes\README.md) | [Projects](..\..\..\..\projects\README.md) | [2020](..\..\..\2020\README.md) | [Covid-19](..\README.md) | TMC-C19 ]
 
 ## Contents
 
@@ -26,4 +26,4 @@ My goal is to only document a small portion of the pandemic based on what I've o
 
 --- Footer ---
 
-[ [Home](..\..\..\..\..\emwcnotes\README.md) | [Projects](..\..\..\..\projects\README.md) | [2020](..\..\..\2020\README.md) | [Covid-19](..\..\README.md) | TMC-C19 ]
+[ [Home](..\..\..\..\..\emwcnotes\README.md) | [Projects](..\..\..\..\projects\README.md) | [2020](..\..\..\2020\README.md) | [Covid-19](..\README.md) | TMC-C19 ]
