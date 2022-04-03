@@ -1,17 +1,58 @@
-# Projects
-This section will contain projects that are either in progress or completed
-## EMWC
-Will include files and folders for notes and other information on various topics I might be researching but may not have a specific use in mind for the information at the time of adding it here
-## Quarter Query
+# Related Projects
+
+[ [Home](../README.md) | Related Projects ]
+___
+
+# Table of Contents
+- [Introduction](#introduction)
+- [EMWC](#emwc)
+- [Quarter Query](#quarter-query)
+    - [2020](#2020)
+    - [2018](#2018)
+    - [2017](#2017)
+- [Webpage Experiments](#webpage-experiments]
+- [Regarding Sources](#regarding-sources)
+
+___
+# Introduction
+
+This section will contain projects that are either in progress or completed.
+
+# Quarter Query
+
 Notes and drafts of historical essays to be included in a binder at Trinity and elsewhere online
-### *2018*
+
+  **Note Regarding Sources**
+
+  Citation within each individual file/document including information pertaining to either the online or physical location of the source.
+
+## *2020*
+
+**Covid-19** [*(README.md)*](/Projects/2020/covid-19/README.md)
+  - Intro [*(README.md#intro)*](/Projects/2020/covid-19/README.md#intro)
+
+
+## *2018*
+
 - [2018-Jan-QQ](/Projects/2018/)
     - Topic is the Interfaith Chapel See [IFC](/Projects/IFC/
 
-### *2017*
+## *2017*
+
 - [2017-Aug-QQ](2017/2017-Aug-QQ/)
 
-## Regarding Sources
-Citation within each individual file/document as I go and will include information pertaining to either the online or physical location of the source.
+___
+[ [Top](#table-of-contents) ]
+___
 
-_Chicago Style will be used for citation_
+## Webpage Experiments
+
+
+___
+[ [Top](#table-of-contents) ]
+___
+
+--- Footer ---
+
+___
+[ [Home](../README.md) | Related Projects ]
